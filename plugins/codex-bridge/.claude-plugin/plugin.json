@@ -1,0 +1,5 @@
+{
+  "name": "codex-bridge",
+  "version": "1.0.0",
+  "description": "Delegate local project reviews and implementation tasks from Claude Code to Codex CLI."
+}

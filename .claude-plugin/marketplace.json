@@ -1,0 +1,11 @@
+{
+  "name": "local-codex-bridge",
+  "owner": { "name": "Local user" },
+  "plugins": [
+    {
+      "name": "codex-bridge",
+      "source": "./plugins/codex-bridge",
+      "description": "Ask the local Codex CLI to check connectivity, review code, or implement a bounded task."
+    }
+  ]
+}
